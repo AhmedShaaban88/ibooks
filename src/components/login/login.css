@@ -1,0 +1,14 @@
+.wrapper{
+    height: 100vh;
+    margin-top: 15px;
+}
+.main-form{
+    width: 50%;
+    border: 1px solid #eeeeee;
+    padding: 10px;
+    margin: auto;
+}
+.register-img{
+    display: block;
+    margin: auto;
+}

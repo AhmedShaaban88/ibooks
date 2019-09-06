@@ -1,0 +1,17 @@
+.dropdown .dropdown-toggle{
+    padding-top: 0;
+}
+.dropdown-menu:lang(en), .dropdown-menu[lang="en"]{
+    right: 0!important;
+    left: -120px;
+}
+.dropdown-link{
+    display: block;
+    text-align: center;
+}
+.active{
+    color: black;
+}
+.navbar-nav a{
+    margin-right: 10px;
+}
